@@ -36,6 +36,7 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 | Name | Description | License |
 |------|-------------|---------|
 | [Open Assistant](https://github.com/LAION-AI/Open-Assistant) | Open-source ChatGPT alternative | Apache 2.0 |
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 | [LocalAI](https://github.com/mudler/LocalAI) | Self-hosted, local-first AI assistant | MIT |
 | [Jan](https://github.com/janhq/jan) | Open-source ChatGPT alternative that runs offline | AGPL-3.0 |
 | [Ollama](https://github.com/ollama/ollama) | Run large language models locally | MIT |
